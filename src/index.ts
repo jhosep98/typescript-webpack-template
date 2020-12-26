@@ -1,4 +1,4 @@
-import "./assets/css/main.css";
+import "./assets/sass/style.scss";
 
 const greeter: string = `<h1>Hello World!</h1>`;
 console.log(greeter);
